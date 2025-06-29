@@ -11,10 +11,15 @@ C
 
 ### Output Pattern
 01
+
 0101
+
 010101
+
 01010101
+
 0101010101
+
 010101010101
 
 ## How to Run
@@ -23,7 +28,9 @@ C
 ```bash
 gcc binary_pattern.c -o pattern
 ./pattern
+
 What I Learned
+
 Using nested loops in C
 
 Printing fixed binary sequences
